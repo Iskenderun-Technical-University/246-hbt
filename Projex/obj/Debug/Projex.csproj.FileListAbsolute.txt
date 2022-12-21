@@ -1,0 +1,28 @@
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\bin\Debug\Projex.exe.config
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\bin\Debug\Projex.exe
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\bin\Debug\Projex.pdb
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.csproj.AssemblyReference.cache
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.Form1.resources
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.Properties.Resources.resources
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.csproj.GenerateResource.cache
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.csproj.CoreCompileInputs.cache
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.exe
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.pdb
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.anasayfa.resources
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.CalisanBilg.resources
+C:\Users\Halil Ömer Öksüz\source\repos\Projex\Projex\obj\Debug\Projex.Gorev.resources
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\bin\Debug\Projex.exe.config
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\bin\Debug\Projex.exe
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\bin\Debug\Projex.pdb
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.csproj.AssemblyReference.cache
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.anasayfa.resources
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.CalisanBilg.resources
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.Form1.resources
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.Gorev.resources
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.Properties.Resources.resources
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.csproj.GenerateResource.cache
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.csproj.CoreCompileInputs.cache
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.exe
+C:\Users\BUSE TAŞ\Desktop\Ödev\Projex\obj\Debug\Projex.pdb
