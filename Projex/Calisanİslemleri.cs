@@ -33,5 +33,10 @@ namespace Projex
             fr7.Show();
             this.Hide();
         }
+
+        private void Calisanİslemleri_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

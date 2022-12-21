@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Projex
 {
-    public partial class CalisanBilg : Form
+    public partial class Form2 : Form
     {
-        public CalisanBilg()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void CalisanBilg_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

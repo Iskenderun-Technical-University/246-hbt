@@ -133,6 +133,7 @@
             this.Controls.Add(this.radioButton1);
             this.Name = "Calisanİslemleri";
             this.Text = "Calisanİslemleri";
+            this.Load += new System.EventHandler(this.Calisanİslemleri_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

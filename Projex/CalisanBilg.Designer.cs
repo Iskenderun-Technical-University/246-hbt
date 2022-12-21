@@ -126,6 +126,7 @@
             this.Controls.Add(this.label1);
             this.Name = "CalisanBilg";
             this.Text = "CalisanBilg";
+            this.Load += new System.EventHandler(this.CalisanBilg_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
